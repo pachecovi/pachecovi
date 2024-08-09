@@ -2,7 +2,7 @@
 
 meu nome é Vitoria Pacheco
 
-- Estou estudando no alura
+- Estou estudando no [alura](https://www.alura.com.br)
 - Estou me densenvolvendo na linguagem javaScript
 - Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
